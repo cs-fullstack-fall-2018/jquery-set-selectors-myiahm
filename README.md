@@ -14,5 +14,5 @@ HINT: Use an anonymous function to execute the Javascript Alert function
 * Select the page-content wrapper
 * Select every list item within the gallery
 
-
+TIP: Use .css("border", "2px solid yellow") to highlight your selections
 
