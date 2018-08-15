@@ -1,10 +1,13 @@
-# jQuery Exercise on Selectors and General Topics
+# jQuery Exercise on Selectors
 
-## Write the jQuery necessary to display an alert box saying "Locked and Loaded!" *only* after the HTML page has been successfully loaded.
+## Using the provided HTML:
+### Add the code to load jQuery for use
+
+### Write the jQuery necessary to display an alert box saying "Locked and Loaded!" *only* after the HTML page has been successfully loaded.
 
 HINT: Use an anonymous function to execute the Javascript Alert function
 
-## Using the provided HTML add the jQuery selectors to make the following selections. Print each selection.
+### Add the jQuery selectors to make the following selections. Print each selection.
 
 * Select the h1 element
 * Select the intro paragraph
